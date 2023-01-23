@@ -4,4 +4,4 @@ Run:
   2) npm start
   
   3) cd cvss
-  4) npm backend 
+  4) npm start 
